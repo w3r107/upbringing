@@ -1,0 +1,54 @@
+#card2 {
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  background-color: #fff4e5;
+}
+#signupHeading {
+  font-family: "Sunny";
+  color: #201528;
+}
+#signupsubHeading {
+  color: #c575ff;
+}
+
+.blue-text {
+  color: blue;
+}
+
+.green-text {
+  color: green;
+}
+.typewriter-container {
+  transition: opacity 0.5s ease-in-out; /* Add a transition effect */
+}
+
+#google {
+  display: inherit;
+}
+#googlelogo {
+  align-self: center;
+}
+
+.time-picker-container {
+  text-align: center;
+  padding: 20px;
+}
+
+.custom-time-picker {
+  width: 200px;
+  margin: 20px auto;
+}
+
+.submit-button {
+  background-color: #007bff;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  cursor: pointer;
+  border-radius: 5px;
+  font-size: 16px;
+  transition: background-color 0.3s ease-in-out;
+}
+
+.submit-button:hover {
+  background-color: #0056b3;
+}

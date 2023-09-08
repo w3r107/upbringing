@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Urbanist:wght@600&display=swap');
+
+#bgcolor{
+background-color: #fff6ea;
+}
+#about1heading{
+    font-family: 'Urbanist';
+font-style: bold;
+font-weight: 800;
+font-size: 20px;
+line-height: 20px;
+
+
+text-align: center;
+letter-spacing: 0.2em;
+
+color: #0D1F4C;
+}
+
+#about1{
+    font-family: 'Urbanist';
+
+
+/* or 125% */
+
+text-align: center;
+letter-spacing: 0.015em;
+
+color: #414040;
+}
+
+#about2heading{
+    font-family: 'Sunny';
+font-style: normal;
+font-weight: 400;
+text-align: center;
+color: #0D1F4C;
+}
+
+
+#about2{
+    font-family: 'Urbanist';
+}
+
+#ourValues{
+    background-color: #fff6ea;
+    border:3px solid #DFCEB9;
+    font-family: 'Urbanist';
+}
+#ourValues:hover{
+background-color:  rgb(23 37 84 / var(--tw-bg-opacity));
+border: none;
+}

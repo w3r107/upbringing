@@ -1,0 +1,64 @@
+@import url("https://fonts.googleapis.com/css2?family=Urbanist:wght@600&display=swap");
+
+#main {
+  background-color: #fff6ea;
+  margin: 0px;
+  padding: 0px;
+}
+
+#main1 {
+  width: inherit;
+  font-family: "Urbanist";
+}
+
+#heading {
+  font-family: "Sunny";
+  font-style: normal;
+  font-weight: 400;
+  text-align: center;
+  color: #0d1f4c;
+}
+
+#group2heading {
+  font-family: "Sunny";
+}
+#group2text {
+  font-family: "Urbanist";
+}
+
+#group3 {
+  background-color: #110a20;
+  /* height: 30rem; */
+}
+
+#group3heading {
+  font-family: "Sunny";
+}
+
+#group3text {
+  font-family: "Urbanist";
+}
+
+#button1 {
+  box-shadow: 2px 2px gray;
+  font-family: "Urbanist", sans-serif;
+}
+#button2 {
+  box-shadow: 2px 2px gray;
+  font-family: "Urbanist", sans-serif;
+}
+#group5subheading {
+  font-family: "Urbanist", sans-serif;
+}
+#group6 {
+  background-color: #201528;
+}
+
+#group6heading {
+  font-family: "Sunny";
+}
+
+#group5heading {
+  font-family: "Sunny";
+  color: #fbbb4d;
+}

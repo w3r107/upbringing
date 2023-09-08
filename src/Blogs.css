@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Urbanist:wght@600&display=swap');
+
+#blog{
+    background-color: #fff6ea;
+}
+
+#blogHeading{
+font-family: 'Sunny';
+font-style: normal;
+font-weight: 400;
+text-align: center;
+color: #0D1F4C; 
+}
+
+#blog1{
+    width: inherit;    
+    font-family: 'Urbanist'
+}
